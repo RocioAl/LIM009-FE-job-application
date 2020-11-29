@@ -106,13 +106,12 @@ nav ul a.active {
     background-color: #222222;
     height: 100vh;
 }
-
 #skill-set, .title-contact h1 {
-	padding-top: 1rem;
+	padding-top: 3rem;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 800;
 	color: #F1DA49;	
-	font-size: 15px;
+	font-size: 35px;
 }
 #skill-set{
 	color: #FFF;	
